@@ -4,7 +4,7 @@ OSEK_Raspberry_Pi_Zero
     <a href="https://sonarcloud.io/summary/new_code?id=CC-RTOS_Project_000">
         <img src="https://sonarcloud.io/api/project_badges/measure?project=CC-RTOS_Project_000&metric=alert_status"></a>
     <a href="https://github.com/CC-RTOS/Project_000/actions">
-        <img src="https://github.com/CC-RTOS/Project_000/actions/workflows/OSEK_Raspberry_Pi_Zero.yml/badge.svg" alt="Build Status"></a>
+        <img src="https://github.com/CC-RTOS/Project_000/actions/workflows/build.yml/badge.svg" alt="Build Status"></a>
     <a href="https://github.com/CC-RTOS/Project_000/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
         <img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/chalandi/OSEK_Raspberry_Pi_Zero?logo=github" alt="Issues" /></a>
     <a href="https://github.com/CC-RTOS/Project_000/blob/master/LICENSE_1_0.txt">
