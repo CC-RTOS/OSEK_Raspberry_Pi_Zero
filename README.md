@@ -3,13 +3,13 @@ OSEK_Raspberry_Pi_Zero
 <p align="center">
     <a href="https://sonarcloud.io/summary/new_code?id=CC-RTOS_Project_000">
         <img src="https://sonarcloud.io/api/project_badges/measure?project=CC-RTOS_Project_000&metric=alert_status"></a>
-    <a href="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/actions">
-        <img src="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/actions/workflows/OSEK_Raspberry_Pi_Zero.yml/badge.svg" alt="Build Status"></a>
-    <a href="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
+    <a href="https://github.com/CC-RTOS/Project_000/actions">
+        <img src="https://github.com/CC-RTOS/Project_000/actions/workflows/OSEK_Raspberry_Pi_Zero.yml/badge.svg" alt="Build Status"></a>
+    <a href="https://github.com/CC-RTOS/Project_000/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
         <img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/chalandi/OSEK_Raspberry_Pi_Zero?logo=github" alt="Issues" /></a>
-    <a href="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/blob/master/LICENSE_1_0.txt">
+    <a href="https://github.com/CC-RTOS/Project_000/blob/master/LICENSE_1_0.txt">
         <img src="https://img.shields.io/badge/license-BSL%201.0-blue.svg" alt="Boost Software License 1.0"></a>
-    <a href="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero">
+    <a href="https://github.com/CC-RTOS/Project_000">
         <img src="https://img.shields.io/github/languages/code-size/chalandi/OSEK_Raspberry_Pi_Zero" alt="GitHub code size in bytes" /></a>
 </p>
 
