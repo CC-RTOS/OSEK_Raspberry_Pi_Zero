@@ -1,8 +1,7 @@
 OSEK_Raspberry_Pi_Zero
 ==================
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CC-RTOS_Project_000&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=CC-RTOS_Project_000)
-
 <p align="center">
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CC-RTOS_Project_000&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=CC-RTOS_Project_000)
     <a href="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/actions">
         <img src="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/actions/workflows/OSEK_Raspberry_Pi_Zero.yml/badge.svg" alt="Build Status"></a>
     <a href="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
