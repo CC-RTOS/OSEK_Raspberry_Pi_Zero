@@ -10,7 +10,7 @@ OSEK_Raspberry_Pi_Zero
     <a href="https://github.com/CC-RTOS/Project_000/blob/master/LICENSE_1_0.txt">
         <img src="https://img.shields.io/badge/license-BSL%201.0-blue.svg" alt="Boost Software License 1.0"></a>
     <a href="https://github.com/CC-RTOS/Project_000">
-        <img src="https://img.shields.io/github/languages/code-size/chalandi/OSEK_Raspberry_Pi_Zero" alt="GitHub code size in bytes" /></a>
+        <img src="https://img.shields.io/github/languages/code-size/CC-RTOS/Project_000" alt="GitHub code size in bytes" /></a>
 </p>
 
 This repository implements an OSEK-like, bare-metal
