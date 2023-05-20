@@ -1,5 +1,6 @@
 OSEK_Raspberry_Pi_Zero
 ==================
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CC-RTOS_Project_000&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=CC-RTOS_Project_000)
 
 <p align="center">
     <a href="https://github.com/chalandi/OSEK_Raspberry_Pi_Zero/actions">
